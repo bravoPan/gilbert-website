@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dengpan Yuan(Gilbert)
+name: Dengpan Yuan
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Junior Student
+role: Junior Undergraduate
 
 # Organizations/Affiliations
 organizations:
@@ -31,12 +31,12 @@ education:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Computer Science, Mathematics
+  - course: BSc in CS, Mathematics
     institution: Rutgers University
     year: 2018
+  - course: BSc in CS
+    institution: Xi'an Jiao Tong Liverpoll University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
