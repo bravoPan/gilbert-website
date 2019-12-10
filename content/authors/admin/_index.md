@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Dengpan Yuan(Gilbert)
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Junior Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Rutgers University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,6 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
+- Human Computer Interaction
 - Computational Linguistics
 - Information Retrieval
 
@@ -33,7 +34,7 @@ education:
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
+  - course: BSc Major in Computer Science, Minor in Mathematics
     institution: Massachusetts Institute of Technology
     year: 2008
 
