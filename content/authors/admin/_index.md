@@ -34,9 +34,9 @@ education:
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc Major in Computer Science, Minor in Mathematics
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Computer Science, Mathematics
+    institution: Rutgers University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
