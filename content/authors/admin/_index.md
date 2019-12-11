@@ -38,7 +38,6 @@ education:
   - course: BSc in CS
     institution: Xi'an Jiao Tong Liverpool University
     year: 2016
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -47,12 +46,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:dy209@scarletmail.rutgers.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: ieee
-  icon_pack: ai
-  link: https://ieeexplore.ieee.org/author/37086589969
 - icon: github
   icon_pack: fab
   link: https://github.com/bravoPan
+- icon: ieee
+  icon_pack: ai
+  link: https://ieeexplore.ieee.org/author/37086589969
+- icon: cv
+  icon_pack: ai
+  link: #
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a research intern at [SymLab](http://symlab.ust.hk/), supervised by Paul Li. One of my most recent tasks is developing a web based application to implement the text selection in Microsoft Hololens which is controlled by the smart phone.
+I am currently a research intern at [SymLab](http://symlab.ust.hk/) at HKUST, supervised by Paul Li. One of my most recent tasks is developing a web based application to implement the text selection in Microsoft Hololens which is controlled by the smart phone.
 
 I have several research experiences which are concentrated on Machine Learning, Natural Language processing(Chinese mostly), HCI(application for VR/AR devices, proficient in web), Distributed System(model designing and model checking), Computer Network(network programming), algorithm(interested in dynamic programming and recurrence problems).
 
