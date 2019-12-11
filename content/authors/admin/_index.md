@@ -22,12 +22,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Machine Learning
-- Data Science
 - Human Computer Interaction
 - Software Application
 - Computer Network
 - Distributed System
-- Algorithm
 
 education:
   courses:
