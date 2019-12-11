@@ -6,10 +6,12 @@ title: Publications
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: 1
 
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
 ---
+
+What is it?
