@@ -23,19 +23,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Artificial Intelligence
 - Human Computer Interaction
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Software Application
+- Algorithm
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
   - course: BSc in CS, Mathematics
     institution: Rutgers University
     year: 2018
+  - course: Exchange Student
+    institution: Hong Kong University Of Science and Technology
+    year: 2019 Fall
   - course: BSc in CS
-    institution: Xi'an Jiao Tong Liverpoll University
+    institution: Xi'an Jiao Tong Liverpool University
     year: 2016
 
 # Social/Academic Networking
@@ -45,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:dy209@scarletmail.rutgers.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
