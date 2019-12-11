@@ -47,12 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:dy209@scarletmail.rutgers.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+- icon: ieee
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://ieeexplore.ieee.org/author/37086589969
 - icon: github
   icon_pack: fab
   link: https://github.com/bravoPan
