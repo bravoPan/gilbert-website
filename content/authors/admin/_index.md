@@ -21,10 +21,12 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Human Computer Interaction
+- Machine Learning
 - Data Science
+- Human Computer Interaction
 - Software Application
+- Computer Network
+- Distributed System
 - Algorithm
 
 education:
@@ -33,7 +35,7 @@ education:
     institution: Rutgers University
     year: 2018
   - course: Exchange Student
-    institution: Hong Kong University Of Science and Technology
+    institution: Hong Kong University of Science and Technology
     year: 2019 Fall
   - course: BSc in CS
     institution: Xi'an Jiao Tong Liverpool University
@@ -55,7 +57,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/bravoPan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a research intern at ![SymLab](http://symlab.ust.hk/), supervised by Paul Li. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
