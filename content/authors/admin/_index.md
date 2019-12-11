@@ -74,6 +74,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently a research intern at ![SymLab](http://symlab.ust.hk/), supervised by Paul Li. 
+I am currently a research intern at [SymLab](http://symlab.ust.hk/), supervised by Paul Li. One of my most recent tasks is developing a web based application to implement the text selection in Microsoft Hololens which is controlled by the smart phone.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have several research experiences which are concentrated on Machine Learning, Natural Language processing(Chinese mostly), HCI(application for VR/AR devices, proficient in web), Distributed System(model designing and model checking), Computer Network(network programming), algorithm(interested in dynamic programming and recurrence problems).
+
+Recently I am wishing for a machine learning research opportunity, it is expected in the fields of economics/marketing/real application.
