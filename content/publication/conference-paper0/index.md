@@ -21,8 +21,8 @@ publishDate: "2018-09-21T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In 2018 9th International Conference on Information Technology in Medicine and Education
-publication_short: In ITME
+publication: In *2018 9th International Conference on Information Technology in Medicine and Education*
+publication_short: In *ITME*
 
 abstract: Reliability of two indoor positioning system (IPS) frameworks is studied in this paper. The experimental results show that TPT (Triangulation Positioning Technology) will make an inevitable influence to the system reliability due to the number restriction of the positioning antenna; positioning processors could also affect the system reliability as a result of the connection method of the antenna. Finally, the last conclusion could be extracted from the connection method between the positioning antennas and positioning processors, experiment shows that separate connection (one antenna to one processor) is much more stable than multiple connection (several antennas to one processor).
 
@@ -35,8 +35,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: research gate
+  url: https://www.researchgate.net/publication/329952856_Model_Checking_Indoor_Positioning_System_With_Triangulation_Positioning_Technology
 url_source: https://ieeexplore.ieee.org/document/8589425/authors#authors
 
 
