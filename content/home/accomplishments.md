@@ -26,12 +26,12 @@ date_format = "Jan 2006"
   certificate_url = "https://bravopan.github.io/UNV.pdf"
   date_start = "2019-07-01"
   date_end = "2019-10-01"
-  description = "A three month Volunteering work under *Jean C ELIE K International*"
+  description = "A three month Volunteering work under *Jean C &ELIE K International*"
 
 [[item]]
   organization = "Citrix"
   organization_url = "https://www.citrix.com/"
-  title = "Citrix Summer Camp Gold Award"
+  title = "Citrix Summer Camp Golden Award"
   url = ""
   certificate_url = "https://bravopan.github.io/citrix_award.pdf"
   date_start = "2019-07-01"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = "https://bravopan.github.io/HarvardResearch.pdf"
   date_start = "2019-03-01"
   date_end = "2019-08-01"
-  description = ""
+  description = "A five months data analyst research experience, supervised by Dr.Ran Song"
 
 [[item]]
   organization = "Udacity"
@@ -57,6 +57,18 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = ""
   description = ""
+
+
+[[item]]
+  organization = "Rutgers University"
+  organization_url = ""
+  title = "Dean's List"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-09-01"
+  date_end = "Present"
+  description = ""
+
 
 [[item]]
   organization = "COMAP"
@@ -69,7 +81,7 @@ date_format = "Jan 2006"
   description = "Honorable Mention Prize"
 
 [[item]]
-    organization = "XJTLU"
+    organization = "Xi'an Jiao Tong Liverpool University"
     organization_url = ""
     title = "XJTLU Academic Excellent Achievement Award"
     url = ""
