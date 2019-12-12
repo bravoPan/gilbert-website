@@ -18,15 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Harvard Law School"
-  organization_url = "https://hls.harvard.edu/"
-  title = "Harvard Law School Intern Certificate"
-  url = ""
-  certificate_url = "https://bravopan.github.io/HarvardResearch.pdf"
-  date_start = "2019-07-01"
-  date_end = ""
-  description = ""
+
 
 [[item]]
     organization = "UN Volunteers"
