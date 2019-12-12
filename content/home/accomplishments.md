@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Harvard Law School"
-  organization_url = "https://www.citrix.com/"
-  title = "Harvard Law School Intern Certificate"
+  organization = "United Nation Volunteering"
+  organization_url = "https://www.onlinevolunteering.org/"
+  title = "United Nation Volunteering Participant Certificate"
   url = ""
-  certificate_url = "https://bravopan.github.io/HarvardResearch.pdf"
+  certificate_url = "https://bravopan.github.io/UNV.pdf"
   date_start = "2019-07-01"
-  date_end = ""
-  description = ""
+  date_end = "2019-10-01"
+  description = "A three month Volunteering work under *Jean C ELIE K International*"
 
 [[item]]
   organization = "Citrix"
@@ -35,8 +35,18 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://bravopan.github.io/citrix_award.pdf"
   date_start = "2019-07-01"
-  date_end = ""
+  date_end = "2019-08-01"
   description = "The team ranked top 2"
+
+[[item]]
+  organization = "Harvard Law School"
+  organization_url = "https://www.citrix.com/"
+  title = "Harvard Law School Intern Certificate"
+  url = ""
+  certificate_url = "https://bravopan.github.io/HarvardResearch.pdf"
+  date_start = "2019-03-01"
+  date_end = "2019-08-01"
+  description = ""
 
 [[item]]
   organization = "Udacity"
