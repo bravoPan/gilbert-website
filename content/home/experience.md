@@ -25,19 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = "Present"
   description = """
-
   * Implemented web application for MS Hololenss
   * Research and Implemented swipe force keyboard for tiny screen devices
   * Provided technical support for testing work
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
