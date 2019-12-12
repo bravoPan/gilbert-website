@@ -19,6 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+
+[[item]]
+  organization = "Citrix"
+  organization_url = "https://www.citrix.com/"
+  title = "Citrix Summer Camp Gold Award"
+  url = ""
+  certificate_url = "https://bravopan.github.io/citrix_award.pdf"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com/"
+  title = "Nano Degree Program - Machine Learning Engineer"
+  url = ""
+  certificate_url = "https://bravopan.github.io/UdacityNanoDegree.pdf"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
+
 [[item]]
   organization = "COMAP"
   organization_url = "https://www.comap.com/undergraduate/contests/"
