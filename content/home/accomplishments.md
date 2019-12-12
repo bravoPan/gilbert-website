@@ -19,33 +19,64 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Harvard Law School"
+  organization_url = "https://hls.harvard.edu/"
+  title = "Harvard Law School Intern Certificate"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://bravopan.github.io/HarvardResearch.pdf"
+  date_start = "2019-07-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+    organization = "UN Volunteers"
+    organization_url = "https://www.onlinevolunteering.org/en"
+    title = "United Nation Volunteers Certificate"
+    url = ""
+    certificate_url = "https://bravopan.github.io/UNV.pdf"
+    date_start = ""
+    date_end = ""
+    description = ""
+
+
+[[item]]
+  organization = "Citrix"
+  organization_url = "https://www.citrix.com/"
+  title = "Citrix Summer Camp Gold Award"
+  url = ""
+  certificate_url = "https://bravopan.github.io/citrix_award.pdf"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com/"
+  title = "Nano Degree Program - Machine Learning Engineer"
+  url = ""
+  certificate_url = "https://bravopan.github.io/UdacityNanoDegree.pdf"
+  date_start = "2019-01-01"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
 
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "COMAP"
+  organization_url = "https://www.comap.com/undergraduate/contests/"
+  title = "The Interdisciplinary Contest in Modelinge Honorable Prize"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://bravopan.github.io/2018MCM.png"
+  date_start = "2018-02-01"
+  date_end = ""
   description = ""
+
+[[item]]
+    organization = "XJTLU"
+    organization_url = ""
+    title = "XJTLU Academic Excellent Achievement Award (5%)"
+    url = ""
+    certificate_url = ""
+    date_start = "2016-09-01"
+    date_end = "2017-06-01"
+    description = ""
 
 +++
