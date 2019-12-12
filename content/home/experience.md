@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Work Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -19,15 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[SymLab Research Intern]]
   title = "Research Intern"
-  company = "SymLab"
+  company = "Symlab"
   company_url = ""
   location = ""
   date_start = "2019-09-01"
-  date_end = "Present"
+  date_end = ""
   description = """
   * Implemented web application for MS Hololenss
   * Research and Implemented swipe force keyboard for tiny screen devices
   * Provided technical support for testing work
   """
+
+[[experience]]
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
