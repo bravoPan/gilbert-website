@@ -18,15 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "United Nation Volunteering"
-  organization_url = "https://www.onlinevolunteering.org/"
-  title = "United Nation Volunteering Participant Certificate"
-  url = ""
-  certificate_url = "https://bravopan.github.io/UNV.pdf"
-  date_start = "2019-07-01"
-  date_end = "2019-10-01"
-  description = "A three month Volunteering work under *Jean C and ELIE K International*"
 
 [[item]]
   organization = "Citrix"
