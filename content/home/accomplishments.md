@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://bravopan.github.io/UNV.pdf"
   date_start = "2019-07-01"
   date_end = "2019-10-01"
-  description = "A three month Volunteering work under *Jean C &ELIE K International*"
+  description = "A three month Volunteering work under *Jean C \&ELIE K International*"
 
 [[item]]
   organization = "Citrix"
