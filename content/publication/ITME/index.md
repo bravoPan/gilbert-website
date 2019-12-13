@@ -1,5 +1,5 @@
 ---
-title: "*Model Checking Indoor Positioning System With Triangulation Positioning Technology*"
+title: "Model Checking Indoor Positioning System With Triangulation Positioning Technology"
 authors:
 - admin
 - Maizhen Ning
