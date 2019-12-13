@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "HCI Research Intern"
-  company = "Symlab"
-  company_url = ""
+  company = "SymLab"
+  company_url = "http://symlab.ust.hk/"
   location = ""
   date_start = "2019-09-01"
   date_end = ""
@@ -41,14 +41,13 @@ date_format = "Jan 2006"
   * Made a 77GB highly-customized mirror site by Rsync, with the Citrix packages under the file hierarchy
   * Deployed a [Cache Server](https://www.youtube.com/watch?v=slrZdMhYvOg) by Apt-Cacher-Ng and Nginx on Raspiberry pi, worked with Azure repo server
   * Implemented the functions with hit and miss, the statistical collection could be recorded periodically
-  * Implemented the functions with Hit and Miss for the cache server, the statistical collection could be recorded periodically
   * Coded the Autoscript to upload, update, upgrade the Azure server status from *[rapsbian.org](https://www.raspbian.org/)*
   """
 
 [[experience]]
   title = "Data Analyst Research Intern"
   company = "Harvard Law School"
-  company_url = ""
+  company_url = "https://hls.harvard.edu/"
   location = ""
   date_start = "2019-05-01"
   date_end = "2019-08-01"
