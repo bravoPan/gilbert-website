@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Research Experience"
+title = "Work/Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Intern"
+  title = "HCI Research Intern"
   company = "Symlab"
   company_url = ""
   location = ""
@@ -31,12 +31,18 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Software Engineering Intern"
+  company = "Citrix"
+  company_url = "https://www.citrix.com/"
+  location = ""
+  date_start = "2019-07-01"
+  date_end = "2019-08-01"
+  description = """
+  * Made a 77GB highly-customized mirror site by Rsync, with the Citrix packages under the file hierarchy
+  * Deployed a [Cache Server by](https://www.youtube.com/watch?v=slrZdMhYvOg) Apt-Cacher-Ng and Nginx on Raspiberry pi, worked with Azure repo server
+  * Implemented the functions with hit and miss, the statistical collection could be recorded periodically
+  * Implemented the functions with Hit and Miss for the cache server, the statistical collection could be recorded periodically
+  * Coded the Autoscript to upload, update, upgrade the Azure server status from *rapsbian.org*
+  """
 
 +++
