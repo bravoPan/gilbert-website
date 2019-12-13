@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   date_end = "2019-08-01"
   description = """
   * Designed an Anti-Craping program and got 20,000 law judgements from the *[Chinese court](http://wenshu.court.gov.cn/)* website for the research *Environmental Injustice in Developing Countries*
-  * Resolved the inconsistency of defendant and lay person with Part-of-Speech tagging and two *[DFAs](https://bravopan.github.io/court_DFAs.jpg)*
+  * Resolved the inconsistency of defendant and lay person with Part-of-Speech tagging and two [DFAs](https://bravopan.github.io/court_DFAs.jpg)
   * Provided the data collection assistance for the finalized data fields
   """
 
