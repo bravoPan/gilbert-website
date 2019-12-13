@@ -39,10 +39,24 @@ date_format = "Jan 2006"
   date_end = "2019-08-01"
   description = """
   * Made a 77GB highly-customized mirror site by Rsync, with the Citrix packages under the file hierarchy
-  * Deployed a [Cache Server by](https://www.youtube.com/watch?v=slrZdMhYvOg) Apt-Cacher-Ng and Nginx on Raspiberry pi, worked with Azure repo server
+  * Deployed a [Cache Server](https://www.youtube.com/watch?v=slrZdMhYvOg) by Apt-Cacher-Ng and Nginx on Raspiberry pi, worked with Azure repo server
   * Implemented the functions with hit and miss, the statistical collection could be recorded periodically
   * Implemented the functions with Hit and Miss for the cache server, the statistical collection could be recorded periodically
-  * Coded the Autoscript to upload, update, upgrade the Azure server status from *rapsbian.org*
+  * Coded the Autoscript to upload, update, upgrade the Azure server status from *[rapsbian.org](https://www.raspbian.org/)*
   """
+
+[[experience]]
+  title = "Data Analyst Research Intern"
+  company = "Harvard Law School"
+  company_url = ""
+  location = ""
+  date_start = "2019-05-01"
+  date_end = "2019-08-01"
+  description = """
+  * Designed an Anti-Craping program and got 20,000 law judgements from the *[Chinese court](http://wenshu.court.gov.cn/)* website for the research *Environmental Injustice in Developing Countries*
+  * Resolved the inconsistency of defendant and lay person with Part-of-Speech tagging and two *[DFAs](https://bravopan.github.io/court_DFAs.jpg)*
+  * Provided the data collection assistance for the finalized data fields
+  """
+
 
 +++
