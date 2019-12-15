@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Machine Learning, Human Computer Interaction and Software Application.
 
 interests:
 - Machine Learning
@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a research intern at [SymLab](http://symlab.ust.hk/) at HKUST, supervised by Paul Li. One of my most recent tasks is developing a web based application to implement the text selection in Microsoft Hololens which is controlled by the smart phone.
+I am currently a research intern at [SymLab](http://symlab.ust.hk/) at HKUST, supervised by Dr.[LEE Lik Hang](https://plhlee2010.wixsite.com/work), [Prof.Hui Pan](https://www.cse.ust.hk/~panhui/). One of my most recent tasks is developing a web based application to implement the text selection in Microsoft Hololens which is controlled by the smart phone.
 
 I have several research experiences which are concentrated on Machine Learning, Natural Language processing(Chinese mostly), HCI(application for VR/AR devices, proficient in web), Distributed System(model designing and model checking), Computer Network(network programming), algorithm(interested in dynamic programming and recurrence problems).
 
