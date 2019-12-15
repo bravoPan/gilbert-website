@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = "https://bravopan.github.io/HarvardResearch.pdf"
   date_start = "2019-03-01"
   date_end = "2019-08-01"
-  description = "A five months data analyst research experience, supervised by Dr.Ran Song"
+  description = "A five months data analyst research experience, supervised by Dr.[Ran Song](https://lwp.law.harvard.edu/people/ran-song)"
 
 [[item]]
   organization = "Udacity"
