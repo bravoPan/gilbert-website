@@ -1,8 +1,8 @@
 ---
-title: Swipe-Froce Keyboard in MiniText Device
+title: Swipe-Froce Keyboard in MiniText
 authors:
 - admin
-date: "2019-9-01T00:00:00Z"
+date: "2019-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,12 +22,14 @@ abstract: This project is to implement the Swype keyboard on the usage of the ti
 summary:
 
 tags:
-- Source Themes
+- HCI Research
 featured: false
 
 links:
 - name: project proposal
-  url: https://github.com/bravoPan/bravoPan.github.io/blob/master/DTW.pdf
+  url: https://bravopan.github.io/DTW.pdf
+- name: demo
+  url: https://youtu.be/AyK55WvJ7XU
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
