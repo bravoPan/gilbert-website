@@ -29,10 +29,12 @@ tags:
 - Source Themes
 featured: false
 
-<!-- links:
+
+links:
 - name: research gate
   url: https://www.researchgate.net/publication/329952856_Model_Checking_Indoor_Positioning_System_With_Triangulation_Positioning_Technology
-url_source: https://ieeexplore.ieee.org/document/8589425/authors#authors -->
+url_source: https://ieeexplore.ieee.org/document/8589425/authors#authors
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
