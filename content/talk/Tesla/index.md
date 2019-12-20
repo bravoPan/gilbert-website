@@ -2,6 +2,8 @@
 title: Tesla Charger Station Optimization in U.S.
 authors:
 - admin
+- Yuan Hui
+- Zheng Yang
 date: "2018-02-01T00:00:00Z"
 doi: ""
 
