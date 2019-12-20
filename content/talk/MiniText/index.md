@@ -27,9 +27,7 @@ featured: false
 
 links:
 - name: project proposal
-  url:
-  https://github.com/bravoPan/bravoPan.github.io/blob/master/DTW.pdf
-
+  url: https://github.com/bravoPan/bravoPan.github.io/blob/master/DTW.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
