@@ -2,6 +2,8 @@
 title: Swipe-Froce Keyboard in MiniText
 authors:
 - admin
+- Yuan, Hui
+- Zheng, Yang
 date: "2019-09-01T00:00:00Z"
 doi: ""
 
