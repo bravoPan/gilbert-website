@@ -26,10 +26,10 @@ tags:
 featured: false
 
 links:
-- name: project proposal
-  url: https://bravopan.github.io/DTW.pdf
-- name: demo
+- name: Demo
   url: https://youtu.be/AyK55WvJ7XU
+- name: Project Proposal
+  url: https://bravopan.github.io/DTW.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
