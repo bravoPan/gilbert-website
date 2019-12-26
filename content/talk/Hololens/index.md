@@ -22,7 +22,7 @@ abstract: This project is based on a P2P websocket that could connect MS HoloLen
 summary:
 
 tags:
-- Source Themes
+- HCI
 featured: false
 
 # Featured image

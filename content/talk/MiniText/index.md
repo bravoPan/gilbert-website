@@ -22,7 +22,9 @@ abstract: This project is to implement the Swype keyboard on the usage of the ti
 summary:
 
 tags:
-- HCI Research
+- HCI
+- Tiny Devices
+- Keyboard Simulation
 featured: false
 
 links:

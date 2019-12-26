@@ -24,7 +24,8 @@ abstract: This project is introduced by a mathematical modeling question, the fu
 summary:
 
 tags:
-- Mathematical Modeling, Network
+- Mathematical Modeling
+- Network
 featured: false
 
 links:
