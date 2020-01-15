@@ -16,7 +16,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 
-abstract: This project is based on a P2P websocket that could connect MS Hololens and any smart phone (with major popular browser) to implement the "text selection" function in Hololens and many other headset devices. The basic idea is taking fully advantage of current devices, like smart phone everyone has as a controller to pinpoint the text position in the Hololens. The controller on the smart device is like this: , which could make use of the force-touch/3D touch feature the phone to send data to the devices. The text effect on the browser could be checked on [this video](https://www.youtube.com/watch?v=fm-GnUHAk5s&feature=youtu.be). The paper submission has been accepted into PerComp2020.
+abstract: This project is based on a P2P websocket that could connect MS Hololens and any smart phone (with major popular browser) to implement the text selection function in Hololens and many other headset devices. The basic idea is taking fully advantage of current devices, like smart phone everyone has as a controller to pinpoint the text position in the Hololens. The controller on the smart device is like this: , which could make use of the force-touch/3D touch feature the phone to send data to the devices. The text effect on the browser could be checked on [this video](https://www.youtube.com/watch?v=fm-GnUHAk5s&feature=youtu.be). The paper submission has been accepted into PerComp2020.
 
 # Summary. An optional shortened abstract.
 summary:
