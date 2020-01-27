@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://bravopan.github.io/UNV.pdf"
   date_start = "2019-07-01"
   date_end = "2019-10-01"
-  description = "A three month Volunteering work under *Jean C and ELIE K International*"
+  description = "A three month Volunteering work under *Jean C and ELIE K International*, supervised by [Jean Claude](https://www.linkedin.com/in/jean-claude-kamwenubusa-7b45547)"
 
 [[item]]
   organization = "Citrix"
