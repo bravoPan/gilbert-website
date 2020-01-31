@@ -88,6 +88,6 @@ date_format = "Jan 2006"
     certificate_url = ""
     date_start = "2016-09-01"
     date_end = "2017-06-01"
-    description = "Ranked top 5%"
+    description = "Ranked top [5%](https://www.xjtlu.edu.cn/en/news/2018/07/xjtlu-students-rewarded-for-their-academic-excellence)"
 
 +++
