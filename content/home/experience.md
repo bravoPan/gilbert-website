@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
+  * Supervised by Prof.[Pan Hui](https://www.cse.ust.hk/~panhui/) and Dr.[LEE Lik Hang](https://plhlee2010.wixsite.com/work) at HKUST
   * Implemented web application for MS Hololenss
   * Research and Implemented swipe force keyboard for tiny screen devices
   * Provided technical support for testing work
