@@ -75,7 +75,7 @@ user_groups:
 <!-- I am currently a research intern at , supervised by , . One of my most recent tasks is developing a web based application to implement the text selection in Microsoft HoloLens which is controlled by the smart phone. -->
 
 
-I am currently a research assistant from the team of Prof.[Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) at Rutgers University, supervised by Dr.[Yu Yang](https://www.yyang.site/). One of my recent research is using transparent data to locate the food delivery carrier in the indoor scenario.
+I am currently a research assistant from the team of Prof.[Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) at Rutgers University, supervised by Dr.[Yu Yang](https://www.yyang.site/). One of my recent research is using transparent data to locate the food delivery carrier under the indoor scenario.
 
 
 I have several research experiences which are concentrated on Machine Learning, Natural Language processing(Chinese mostly), HCI(application for VR/AR devices, proficient in web), Distributed System(model designing and model checking), Computer Network(network programming), algorithm(interested in dynamic programming and recurrence problems).
