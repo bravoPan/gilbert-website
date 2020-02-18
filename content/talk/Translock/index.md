@@ -4,7 +4,6 @@ authors:
 - admin
 - Yu Yang
 - Desheng Zhang
-- Dengpan Yuan
 date: "2020-01-20T00:00:00Z"
 doi: ""
 
