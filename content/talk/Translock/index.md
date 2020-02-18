@@ -19,7 +19,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 
-abstract: This research is under the background that instant delivery is an important urban service in recent years driven by the increasing consumer for quick product delivery, which generally requries to be delivered within half an hour in an urban area. One important issue for the business is to keep updating the status of carries especially the real-time locations, which is challenging when they are in an indoor environment. In this research, we addressed two challenges including uncertain anchor reporting behaviors and indoor mobility behaviors. We evaluate our system on 1,000 carries, which shows improvement ove two baselines by, and achieve a competitive result compared to a label-extensive baseline.
+abstract: This
 
 summary:
 
