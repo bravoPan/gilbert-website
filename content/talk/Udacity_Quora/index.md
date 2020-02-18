@@ -27,7 +27,7 @@ tags:
 featured: false
 
 links:
-- name: paper
+- name: Final Paper
   url: https://bravopan.github.io/udacity_paper.pdf
 #- name: Final Paper
 #  url: https://bravopan.github.io/2018mcmthesis.pdf
