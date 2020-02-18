@@ -16,19 +16,19 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 
-abstract: This project is the final graduation project of Udacity Nano Degree-Machine Learning Engineer. The task is based on the background: There are hundreds of millions of users on Quora, so these users will inevitably ask repeated questions, so there may be many questions on Quora. Quora is based on the random forest algorithm [1], based on the decision tree algorithm to determine Whether two questions are duplicates, so our goal is to calculate whether every two questions are duplicates or not. Doing so will make Quora's questions more streamlined and more impressive, and the community will have higher quality questions and answers.
-
-
+abstract: This project is the final graduation project of Udacity Nano Degree-Machine Learning Engineer. The task is based on the background- There are hundreds of millions of users on Quora, so these users will inevitably ask repeated questions, so there may be many questions on Quora. Quora is based on the random forest algorithm [1], based on the decision tree algorithm to determine Whether two questions are duplicates, so our goal is to calculate whether every two questions are duplicates or not. Doing so will make Quora's questions more streamlined and more impressive, and the community will have higher quality questions and answers. Please check at [full paper](https://bravopan.github.io/udacity_paper.pdf). Some critical techniques I used including General Analysis, TF-IDF, XGBoost.
 
 summary:
 
 tags:
-- Smart City
-- Modeling
+- Machine Learning
 - Big Data
+- NLP
 featured: false
 
 links:
+- name: paper
+  url: https://bravopan.github.io/udacity_paper.pdf
 #- name: Final Paper
 #  url: https://bravopan.github.io/2018mcmthesis.pdf
 # Featured image
