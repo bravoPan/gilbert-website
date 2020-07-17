@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Undergraduate
+role: Senior Undergraduate
 
 # Organizations/Affiliations
 organizations:
@@ -31,10 +31,10 @@ education:
   courses:
   - course: BSc in CS, Mathematics
     institution: Rutgers University
-    year: 2018
+    # year: 2018
   - course: Exchange Student
     institution: Hong Kong University of Science and Technology
-    year: 2019 Fall
+    # year: 2019 Fall
   # - course: BSc in CS
   #   institution: Xi'an Jiao Tong Liverpool University
   #   year: 2016
