@@ -35,9 +35,9 @@ education:
   - course: Exchange Student
     institution: Hong Kong University of Science and Technology
     year: 2019 Fall
-  - course: BSc in CS
-    institution: Xi'an Jiao Tong Liverpool University
-    year: 2016
+  # - course: BSc in CS
+  #   institution: Xi'an Jiao Tong Liverpool University
+  #   year: 2016
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
