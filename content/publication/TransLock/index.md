@@ -28,15 +28,7 @@ abstract: Instant delivery is an important urban service in recent years because
 
 
 # Summary. An optional shortened abstract.
-summary: In this work, we perform the first study on couriers’ reporting behaviors and indoor mobility for instant delivery services. We found most of their indoor/outdoor reporting behaviors are consistent,
-which motivates us to use machine learning models to correct their
-indoor reporting behaviors by the outdoor reporting model. Further,
-we design a symbolic mobility graph, which captures their indoor
-mobility without prior knowledge of the indoor environment. Based
-on the experiment results, our system can improve the localization accuracy by 64% and 72% compared with the Wi-Fi/GPS-based
-method and competitive accuracy with the fingerprinting-based
-method. With a case study, our system helps the delivery platform
-reduce the courier redundant time by 24%;
+summary: In this work, we perform the first study on couriers’ reporting behaviors and indoor mobility for instant delivery services. We found most of their indoor/outdoor reporting behaviors are consistent, which motivates us to use machine learning models to correct their indoor reporting behaviors by the outdoor reporting model. Further, we design a symbolic mobility graph, which captures their indoor mobility without prior knowledge of the indoor environment. Based on the experiment results, our system can improve the localization accuracy by 64% and 72% compared with the Wi-Fi GPS-based method and competitive accuracy with the fingerprinting-based method. With a case study, our system helps the delivery platform reduce the courier redundant time by 24%;
 
 tags:
 - Source Themes
