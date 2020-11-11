@@ -21,11 +21,11 @@ organizations:
 bio: My research interests include Machine Learning, Human Computer Interaction and Software Application.
 
 interests:
+- Software Application
 - Machine Learning
 - Human Computer Interaction
-- Software Application
-- Computer Network
-- Distributed System
+- Computer Network Application
+- Modeling
 
 education:
   courses:
