@@ -30,7 +30,7 @@ featured: false
 
 links:
 - name: Research Report
- url: https://bravopan.github.io/independent_study_report.pdf
+  url: https://bravopan.github.io/independent_study_report.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
