@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = ""
-  date_start = "2020-01-01"
-  date_end = ""
+  date_start = "2020-02-11"
+  date_end = "2020-09-01"
   description = """
   * Supervised by Prof.[Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) and Ph.D. [Yu Yang](https://www.yyang.site/) at RU
   * Processed the Ground Truth Data for the Indoor Positioning Dataset
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = "http://symlab.ust.hk/"
   location = ""
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-02-01"
   description = """
   * Supervised by Prof.[Pan Hui](https://www.cse.ust.hk/~panhui/) and Dr.[LEE Lik Hang](https://plhlee2010.wixsite.com/work) at HKUST
   * Implemented web application for MS Hololenss
