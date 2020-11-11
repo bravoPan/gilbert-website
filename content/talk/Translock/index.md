@@ -29,8 +29,8 @@ tags:
 featured: false
 
 links:
-#- name: Final Paper
-#  url: https://bravopan.github.io/2018mcmthesis.pdf
+- name: Study Report
+ url: https://bravopan.github.io/independent_study_report.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
