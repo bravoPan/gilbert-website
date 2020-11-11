@@ -84,5 +84,7 @@ Recently I am wishing for a machine learning research opportunity, it is expecte
 
 I am currently a senior computer science student at Rutgers University. I have a few research intern experiences. One of my recent research project is to work as the research intern supervised using transparent data to locate the food delivery carrier under the indoor scenario.
 
+My research experiences are concentrated on developing software application, using data science to solve real problem, also natural language processing in Chinese context, developing Human Computer Interaction web application for VR/AR devices, model designing and model checking for distributed system.
+
 
 I am expected to graduate in May 2021, currently preparing for applying graduate education.
