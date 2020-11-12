@@ -26,6 +26,7 @@ interests:
 - Human Computer Interaction
 - Computer Network Application
 - Modeling
+- Smart City
 
 education:
   courses:
@@ -82,7 +83,7 @@ I have several research experiences which are concentrated on Machine Learning, 
 
 Recently I am wishing for a machine learning research opportunity, it is expected in the fields of economics/marketing/real application. -->
 
-I am currently a senior computer science student at Rutgers University. I have a few research intern experiences. One of my recent research project is to work as the research intern supervised using transparent data to locate the food delivery carrier under the indoor scenario.
+I am currently a senior computer science student at Rutgers University. I have a few research intern experiences. One of my recent research project is to work as the research intern using transparent data to locate the food delivery carrier under the indoor scenario.
 
 My research experiences are concentrated on developing software application, using data science to solve real problem, also natural language processing in Chinese context, developing Human Computer Interaction web application for VR/AR devices, model designing and model checking for distributed system.
 
