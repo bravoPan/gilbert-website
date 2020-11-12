@@ -23,10 +23,10 @@ bio: My research interests include Machine Learning, Human Computer Interaction 
 interests:
 - Software Application
 - Machine Learning
+- Smart City Topics
 - Human Computer Interaction
 - Computer Network Application
-- Modeling
-- Smart City
+- Modeling Design and Checking
 
 education:
   courses:
