@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   date_start = "2020-02-11"
   date_end = "2020-05-31"
   description = """
-  * Assisted 60 stduents for the seminor topic registration and modificaiton every week.
-  * Scheduled the team-work distribution for 60 students based on their interests with priority.
-  * Maintain the [CS672 course website](https://www.cs.rutgers.edu/~dz220/CS672S2020/home.html)
+  * Assisted 60 stduents for the registration and modificaiton of seminor topic  every week
+  * Scheduled the team-work distribution for 60 students based on their interests with priority
+  * Revised and maintain the [CS672 course website](https://www.cs.rutgers.edu/~dz220/CS672S2020/home.html)
   * Reconstructed and maintained the [instructor website](https://www.cs.rutgers.edu/~dz220/)
   """
 
