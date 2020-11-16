@@ -32,6 +32,20 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Grader for Coures CS672"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2020-02-11"
+  date_end = "2020-05-31"
+  description = """
+  * Assisted 60 stduents for the seminor topic registration and modificaiton every week.
+  * Scheduled the team-work distribution for 60 students based on their interests with priority.
+  * Maintain the [CS672 course website](https://www.cs.rutgers.edu/~dz220/CS672S2020/home.html)
+  * Reconstructed and maintained the [instructor website](https://www.cs.rutgers.edu/~dz220/)
+  """
+
+[[experience]]
   title = "HCI Research Intern"
   company = "SymLab"
   company_url = "http://symlab.ust.hk/"
