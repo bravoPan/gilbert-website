@@ -78,7 +78,7 @@ date_format = "Jan 2006"
   company = "Harvard Law School"
   company_url = "https://hls.harvard.edu/"
   location = ""
-  date_start = "2019-05-01"
+  date_start = "2019-03-01"
   date_end = "2019-08-01"
   description = """
   * Designed an Anti-Craping program and got 20,000 law judgements from the *[Chinese court](http://wenshu.court.gov.cn/)* website for the research *Environmental Injustice in Developing Countries*
