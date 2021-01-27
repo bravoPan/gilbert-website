@@ -1,5 +1,5 @@
 ---
-title: [**Ten Miniute**](https://wowchemy.com/templates/), A movie sharing platform
+title: Ten Minute, A movie sharing platform
 subtitle: A movie sharing platform to video the details of the movies, you can view the same videos by your favourite topic, and you can vote for the video you like.
 
 # Summary for listings and search engines
