@@ -62,7 +62,7 @@ To help us develop this template and software sustainably under the MIT license,
 
 <!-- ### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/) -->
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+As a cinephilia, you have to go check on **[Ten Minute](http://tenmin-eb-real-env.eba-mzrnikmw.us-west-2.elasticbeanstalk.com/)**!.
 
 ## Ecosystem
 
