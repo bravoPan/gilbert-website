@@ -62,19 +62,20 @@ To help us develop this template and software sustainably under the MIT license,
 
 <!-- ### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/) -->
 
-As a cinephilia, you have to go check on **[Ten Minute](http://tenmin-eb-real-env.eba-mzrnikmw.us-west-2.elasticbeanstalk.com/)**!.
+As a cinephilia, you have to go check on **[Ten Minute](http://tenmin-eb-real-env.eba-mzrnikmw.us-west-2.elasticbeanstalk.com/)**!
 
-## Ecosystem
+<!-- ## Ecosystem
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX -->
 
-## Inspiration
+<!-- ## Inspiration
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites. -->
 
-## Features
+## Technical Parts
 
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/writing-markdown-latex/)
+- **Login** - HTTP GET&POST, form validation, form authentication
+- **Create Accont** - Form Authentication
 - **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
 - **Create content** in [**Markdown**](https://wowchemy.com/docs/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
 - **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
