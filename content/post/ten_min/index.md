@@ -1,18 +1,18 @@
 ---
-title: Ten Miniute, A movie sharing platform
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: [**Ten Miniute**](https://wowchemy.com/templates/), A movie sharing platform
+subtitle: A movie sharing platform to video the details of the movies, you can view the same videos by your favourite topic, and you can vote for the video you like.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: A full stack web application developed by python Django, all functions are implemented by MTC design pattern.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-11-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -30,15 +30,14 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
-- Academic
-- 开源
+- Django
+- Web Appilcation
 
 categories:
-- Demo
-- 教程
+- Django
+- Web Appilcation
 ---
 
 ## Overview
