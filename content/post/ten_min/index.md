@@ -42,7 +42,7 @@ categories:
 
 ## Overview
 
-1. Ten Minute can show you the simple movies' description in 10 minutes, just view the movie that caught your eyes.
+1. Ten Minute can show you the simple movies' description in 10 minutes and more than 1000 movies, just view the movie that caught your eyes.
 2. Just Create your own Account and view the movies, vote for the movie you like!
 
 {{< figure src="https://bravopan.github.io/ten_min_detail.png" title="The Detail of the movies which you are interested" >}}
@@ -82,14 +82,7 @@ As a cinephilia, you have to go check on **[Ten Minute](http://tenmin-eb-real-en
 - **User Authentication** - Django Authentication, Session Validation, JinJa Tag Condition
 - **Detial Page** - URL Config, Web Crawler, Semantic Card Component, Redirect to Home
 - **Deployment** - AWS Elastic Beanstalk, Python awsebcli, Virtual Environment Configuration
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+Copyright 2020-present [Dengpan Yuan](https://www.dengpan-yuan.xyz/).
