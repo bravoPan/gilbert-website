@@ -74,23 +74,14 @@ As a cinephilia, you have to go check on **[Ten Minute](http://tenmin-eb-real-en
 
 ## Technical Parts
 
-- **Login** - HTTP GET&POST, form validation, form authentication
-- **Create Accont** - Form Authentication
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
+- **Login** - HTTP GET&POST, Form Validation, Form Authentication, Session Creation
+- **Create Accont** - HTTP GET&POST, Form Authentication, Error Message Render, Form Filter
+- **Video Listing** - ORM Query, Data Plugin, URL Design, Template Rendering
+- **Pagination** - URL Design, Django Pagination Robot, ORM Query, Jinja Tag Condition, Template Rendering
+- **Video Sort** - URL Redirection, ORM Query by Condition&Sorting,
+- **User Authentication** - Django Authentication, Session Validation, JinJa Tag Condition
+- **Detial Page** - URL Config, Web Crawler, Semantic Card Component, Redirect to Home
+- **Deployment** - AWS Elastic Beanstalk, Python awsebcli, Virtual Environment Configuration
 ## Themes
 
 Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
