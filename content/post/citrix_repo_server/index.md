@@ -22,8 +22,12 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+
+Please Check this video on youtube for the demonstration!
+
+
 image:
-  caption: 'Image credit: [**Ten Min**](http://tenmin-eb-real-env.eba-mzrnikmw.us-west-2.elasticbeanstalk.com/)'
+  caption: 'Image credit: [**Citrix Repo Demo**](https://www.youtube.com/watch?v=slrZdMhYvOg/)'
   focal_point: ""
   placement: 2
   preview_only: false
