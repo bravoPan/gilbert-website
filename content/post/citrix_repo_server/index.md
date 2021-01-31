@@ -1,18 +1,18 @@
 ---
-title: Ten Minute, A movie sharing platform
-subtitle: A movie sharing platform to video the details of the movies, you can view the same videos by your favourite topic, and you can vote for the video you like.
+title: Raspbian OS Repo Purge, Citrix
+subtitle: A Company Customized Package Repository designed based on Raspbian.
 
 # Summary for listings and search engines
-summary: A full stack web application developed by python Django, all functions are implemented by MTC design pattern.
+summary: The proposal is to maintain a customized repo by Citrix which contains all Raspbian binary packages and has the capabilities to sync with Raspbian regularly and store our own Debian binary packages. The meaning of our project is to make it easier for WSH(Worksapce Hub) users to install the packages only by receiving several commandas. And we would optimize this project by adding a Cache Server.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-10-01T00:00:00Z"
+date: "2019-07-01T00:00:00Z"
 
 # Date updated
-lastmod: "2020-11-01T00:00:00Z"
+lastmod: "2019-08-31T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
