@@ -36,20 +36,19 @@ authors:
 - admin
 
 tags:
-- Django
-- Web Appilcation
+- Debian Package
+- Raspbian
 
 categories:
-- Django
-- Web Appilcation
+- Cloud Application Development
+- Raspbian Packages
 ---
 
 ## Overview
 
-1. Ten Minute can show you the simple movies' description in 10 minutes and more than 1000 movies, just view the movie that caught your eyes.
-2. Just Create your own Account and view the movies, vote for the movie you like!
-
-{{< figure src="https://bravopan.github.io/ten_min_detail.png" title="The Detail of the movies which you are interested" >}}
+1. We (me and 2 other teammates) finished the funcitons of synchronizing packages from the Raspbian.org with the total 77GB packages, and we coded the autoscript to update the packages on time.
+2. We tested the customize company packages WSH-CEF (workspace hub Chromium Embedded Framework) on the client device (Raspberry Pi) by 'apt install' command, and also we tested the update pacakges functions.
+3. We made a Cache Server by `AptCacherNg` on the Alibaba Cloud server, the statistics would appear on the browser side.
 
 <!-- ## What we have
 
