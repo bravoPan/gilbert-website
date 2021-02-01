@@ -84,6 +84,8 @@ To help us develop this template and software sustainably under the MIT license,
 - **Detial Page** - URL Config, Web Crawler, Semantic Card Component, Redirect to Home
 - **Deployment** - AWS Elastic Beanstalk, Python awsebcli, Virtual Environment Configuration
 
+Please check on [ten min](http://tenmin-eb-real-env.eba-mzrnikmw.us-west-2.elasticbeanstalk.com/) for more interaction!
+
 ## License
 
 Copyright 2020-present [Dengpan Yuan](https://www.dengpan-yuan.xyz/).
