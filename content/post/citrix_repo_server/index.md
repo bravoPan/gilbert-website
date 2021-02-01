@@ -46,39 +46,24 @@ categories:
 
 ## Overview
 
-1. We (me and 2 other teammates) finished the funcitons of synchronizing packages from the Raspbian.org with the total 77GB packages, and we coded the autoscript to update the packages on time.
-2. We tested the customize company packages WSH-CEF (workspace hub Chromium Embedded Framework) on the client device (Raspberry Pi) by 'apt install' command, and also we tested the update pacakges functions.
+1. We (me and 2 other teammates) finished the funcitons of synchronizing packages from the Raspbian.org with the total 77GB packages on the `Citrix Azure Repo Server`, and we coded the autoscript to update the packages on time.
+2. We tested the customize company packages `WSH-CEF` (workspace hub Chromium Embedded Framework) on the client device (Raspberry Pi) by 'apt install' command.
 3. We made a Cache Server by `AptCacherNg` on the Alibaba Cloud server, the statistics would appear on the browser side.
-
-<!-- ## What we have
-
-- 👉 [**Create a new Account**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/) -->
-
-<!-- ## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship. -->
-
-<!-- ### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/) -->
-
-<!-- As a cinephilia, you have to go check on **[Ten Minute](http://tenmin-eb-real-env.eba-mzrnikmw.us-west-2.elasticbeanstalk.com/)**!
-[![IMAGE ALT TEXT HERE](https://yt3.ggpht.com/ytc/AAUvwngMoCZOFlIayfY36XYmXMFkvEfaX-U2om851XTxoA=s176-c-k-c0x00ffffff-no-rj-mo)](https://youtu.be/fm-GnUHAk5s) -->
-
-<!-- ## Ecosystem
-
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX -->
-
-<!-- ## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites. -->
 
 ## Technical Parts
 
-- **Login** - HTTP GET&POST, Form Validation, Form Authentication, Session Creation
+### Citrix Azure Repo server
+
+This repo server was built based only for Debian `buster` distribution, and we have to add `Citrix` component in the pool directory to make the `apt command` recognizable. Here are two critical challenges:
+
+- **How to colone only `buster` distribution**?
+
+We finished this part by the command `rsync` command, the benefit is at that it does not clone the file which the modified time equals to source file, which means it would never download for the same file twice. We made the server work for both `dist` and `pool`, this also ensures the Update funciton for the later usage.
+
+- **How to make the `apt install` command work for the client machine?**
+
+Before we really achieved the installment function for the company pacakge, we first had to configure the repo server, we created a `citrix` distribution directory in the `dist`, and there are two files we have to notice `Release` and `InRealease`, the only difference between these two files is that `Release` needs `Release.gpg` file to be equivalent with `InRealease` for the usage of signature, the point of keeping these two kind of files is to avoid the race condition. The way we generate the `Release` and `InRealease` files are by `gpg` command. Besides, we also need the `workspacehub-cef` debian packages in the `pool` to be indexabled for the `dist/citrix/binary-armfh` (`workspacehub-cef` is a binary file), here another necessacity is to generate `Packages` file to index the `pool/citrix/workspacehub-cef`, we made it by `apt-ftparchive packages` command. The final step is on the client machine, we have to modify the `source.list` to add the ip address, distribution, and components. Finally, we could make it work on the client machine.
+
 - **Create Accont** - HTTP GET&POST, Form Authentication, Error Message Render, Form Filter
 - **Video Listing** - ORM Query, Data Plugin, URL Design, Template Rendering
 - **Pagination** - URL Design, Django Pagination Robot, ORM Query, Jinja Tag Condition, Template Rendering
