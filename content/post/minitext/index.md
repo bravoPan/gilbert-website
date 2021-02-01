@@ -1,5 +1,5 @@
 ---
-title: Swipe-Force Keyboard in MiniText
+title: Swipe-Force Keyboard in Mini-Text
 subtitle: Think about if we have a tiny device (even smaller than apple watch), how could we achieve the funcion of typing the keyboard?
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ summary: This project is to implement the Swype keyboard on the usage of the tin
 projects: []
 
 # Date published
-date: "2019-07-01T00:00:00Z"
+date: "2019-09-01T00:00:00Z"
 
 # Date updated
-lastmod: "2019-08-31T00:00:00Z"
+lastmod: "2019-11-31T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -27,7 +27,7 @@ featured: false
 
 
 image:
-  caption: 'Image credit: [**Citrix Repo Demo**](https://www.youtube.com/watch?v=slrZdMhYvOg)'
+  caption: 'Image credit: [**Mini-Text Demo**](https://www.youtube.com/watch?v=AyK55WvJ7XU)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -36,19 +36,19 @@ authors:
 - admin
 
 tags:
-- Debian Package
-- Raspbian
+- NetWork Application
+- Research Project
 
 categories:
-- Cloud Application Development
-- Raspbian Packages
+- Web Application
+- WebSocket Programming
 ---
 
 ## Overview
 
-1. We (me and 2 other teammates) finished the funcitons of synchronizing packages from the Raspbian.org with the total 77GB packages on the `Repo Server` (Azure Cloud Server), and we coded the autoscript to update the packages on time.
-2. We tested the customize company packages `workspacehub-cef` (workspace hub Chromium Embedded Framework) on the client device (Raspberry Pi) by `apt install` command.
-3. We made a Cache Server by `AptCacherNg` on the Alibaba Cloud server, the statistics would appear on the browser side.
+1. I achieved the interaction between the pressure button and path generation.
+2. I implemented the core algorithm part of Dynamic Time Wrapping to suggest the words based on the simulated path list and real path list.
+3. I 
 
 ## Technical Parts
 
