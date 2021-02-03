@@ -1,6 +1,6 @@
 ---
 title: Text Selection in MicroSoft HoloLens
-subtitle: Given the development with AR&VR, we need a smart way to achieve the text selection in the MS Hololens. Therefore, we developed the new interation named one thumb to achieve the text selection in the MS Hololens Edge browser.
+subtitle: Given the development with AR&VR, we need a smart way to achieve the text selection in the MS Hololens. Therefore, we developed the new interation named head-tail to achieve the text selection in the MS Hololens Edge browser.
 
 # Summary for listings and search engines
 summary: This project is based on a P2P websocket that could connect MS Hololens and any smart phone (with major popular browser) to implement the text selection function in Hololens and many other headset devices. The basic idea is taking fully advantage of current devices, like smart phone everyone has as a controller to pinpoint the text position in the Hololens. The controller on the smart device is like this
@@ -42,22 +42,28 @@ tags:
 categories:
 - Web Application
 - WebSocket Programming
+- Interaction Design
 ---
 
 ## Overview
 
-1. I achieved the interaction between the pressure button and path generation.
-2. I implemented the core algorithm part of Dynamic Time Wrapping to suggest the words based on the simulated path list and real path list.
-3. Due to the data analysis, we have to send the data from the iphone to the computer, I achieved this by WebSocket in the Javascript.
+1. I designed a state machines to record the states of the text selection.
+2. I made a server powered by node.js which could receive the socket.io data from the iphone.
 
 ## Technical Parts
+
+{{< figure src="https://bravopan.github.io/hololens.png" title="" >}}
 
 ### The tiny device interaction
 
 First we have to let the iphone access the files stored from the computer. This is easily achieved by the setting up a file server by `python -m http.server -port`, and we access the computer's ip address + port to access the files.
 
 
-### The Dynamic Time Wrapping Algorithm
+### P2P Real Time Communication
+
+Think we have an iphone and the MicroSoft HoloLens, how to use the button on the iphone to select the text in the Hololens?
+
+
 
 Here I have two arrays. We simulated the paths of the alphabetical words in the json file, and have another real sampling paths, we used the DTW algorithm which could get the minimum cost of the paths, and thus we can get the most similar one.
 
