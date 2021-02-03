@@ -34,9 +34,9 @@
   weight = 70
 
 [[main]]
-name = "Post"
+name = "Selected"
 url = "#posts"
-weight = 0
+weight = 35
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
