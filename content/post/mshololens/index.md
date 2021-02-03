@@ -48,11 +48,10 @@ categories:
 ## Overview
 
 1. I designed a state machines to record the states of the text selection.
-2. I made a server powered by node.js which could receive the socket.io data from the iphone.
+2. I made a P2P WebRTC between the iphone Safaria and MS Hololens Edge.
 
 ## Technical Parts
 
-{{< figure src="https://bravopan.github.io/hololens.png" title="" >}}
 
 ### The tiny device interaction
 
@@ -61,12 +60,31 @@ First we have to let the iphone access the files stored from the computer. This 
 
 ### P2P Real Time Communication
 
-Think we have an iphone and the MicroSoft HoloLens, how to use the button on the iphone to select the text in the Hololens?
+Think we have an iphone and the MicroSoft HoloLens, how to use the button on the iphone to select the text in the Hololens? There is no extra dependency on the Toolcase of hololens, I just used the websocket communication. So the basic architecture is here:
 
+{{< figure src="https://bravopan.github.io/hololens.png" title="" >}}
 
+The core of the communication is `Socketio.P2P` which is in the Socketio which allows a communication between the peer and peer without server, the configuration is openning the port of the hololens, and create a socketio thread by filling in this port. The code on the iphone is bascially sending the signal when triggers the dom operation `touchstart`, `touchmove`, and `touchend`. The code in the socketio is like:
 
-Here I have two arrays. We simulated the paths of the alphabetical words in the json file, and have another real sampling paths, we used the DTW algorithm which could get the minimum cost of the paths, and thus we can get the most similar one.
+```
+document.getElementbyId('pd').addEventListener('eventname', function(){
+  socket.emit('An event Sginal')
+  })
+```
 
-### Send the data back to the computer
+And on the Hololens edge browser, what it needs to do is just to receive the signal and render the text. The code corrosponds is:
 
-Here I used the Websocket in the javascript, we have to create a host with the new port waiting for the data receiving in this port. And when we finished the test work, just use the websocket to send back the data of what we need to this new port.
+```
+socketio.on('An event Signal', function(){
+    //do something
+  })
+```
+
+Besides, the text has 5 states as a selection cycle:
+- step 1, initialzaiton. This is to ensure the devices are all online or reset.
+- step 2, head is selected and if confirmed then turns to the blue.
+- step 3, tail is selected and if confirmed then turns to the blue.
+- step 4, head and tail are connected.
+- step 5, change the state to the step 1.
+
+So this basically how it works. Please check on [this video](https://www.youtube.com/watch?v=fm-GnUHAk5s&t=1s) for the detail!
