@@ -35,8 +35,8 @@ education:
     # year: 2018
   - course: Exchange Student
     institution: Hong Kong University of Science and Technology
-  - course: BSc in I(nformation)CS
-    institution: Xi'an Jiaotong-Liverpool University
+  # - course: BSc in I(nformation)CS
+  #   institution: Xi'an Jiaotong-Liverpool University
     # year: 2019 Fall
   # - course: BSc in CS
   #   institution: Xi'an Jiao Tong Liverpool University
