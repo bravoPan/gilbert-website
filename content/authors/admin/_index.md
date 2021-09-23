@@ -94,6 +94,8 @@ My research experiences are concentrated on developing software application, usi
 
 I am expected to graduate in May 2021, currently preparing for applying graduate education. -->
 
-Hi there! I (Gilbert) am a CS master student at Columbia University@SEAS. I had my internship at Citrix System Inc as a software development engineer, I developed a repository server for company internal usage and improved the security. I also had several on-campus research experience on the aspect  of developing algorithm-based applications for testing the novel human-computer interaction, for example, the one I did is using the Dynamic Time Warping Algorithm to implement a swipe keyboard on an iPhone browser. With respect to my personality, I'm always passionate about learning new tech stacks; and I have my open source spirit, I'm member of the Coala Development Group on Github. Besides, I'm super down-to-earth and a great team player.
+Hi there! I (Gilbert) am a CS master student at Columbia University@SEAS. I had my internship at Citrix System Inc as a software development engineer, I developed a repository server for company internal usage and improved the security. I also had several on-campus research experience on the aspect  of developing algorithm-based applications for testing the novel human-computer interaction, for example, the one I did is using the Dynamic Time Warping Algorithm to implement a swipe keyboard on an iPhone browser. 
+
+With respect to my personality, I'm always passionate about learning new tech stacks; and I have my open source spirit, I'm member of the Coala Development Group on Github. Besides, I'm super down-to-earth and a great team player.
 
 I am currently actively seeking for 2022 SDE Summer Internship job opportunities, please contact my email (the icon under my avatar) if you think any my experience interesting and fits. Thank you!

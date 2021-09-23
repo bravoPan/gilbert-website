@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Rutgers"
+  organization_url = ""
+  title = "Honors Graduation"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-09-01"
+  date_end = "2021-06-01"
+  description = "Graduated with Magna Cum Laude"
+
+[[item]]
   organization = "United Nation Volunteering"
   organization_url = "https://www.onlinevolunteering.org/"
   title = "United Nation Volunteering Participant Certificate"
