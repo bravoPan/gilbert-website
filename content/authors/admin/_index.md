@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Undergraduate
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: Rutgers University
+- name: Columbia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning, Human Computer Interaction and Software Application.
+bio: I'm a MSCS student at Columbia University@SEAS.
 
 interests:
 - Software Application
@@ -30,11 +30,13 @@ interests:
 
 education:
   courses:
-  - course: BSc in CS, Mathematics
+  - course: MS in CS
+    institution: Columbia University 
+  - course: BS in CS, Mathematics
     institution: Rutgers University
     # year: 2018
-  - course: Exchange Student
-    institution: Hong Kong University of Science and Technology
+  # - course: Exchange Student
+  #   institution: Hong Kong University of Science and Technology
   # - course: BSc in I(nformation)CS
   #   institution: Xi'an Jiaotong-Liverpool University
     # year: 2019 Fall
