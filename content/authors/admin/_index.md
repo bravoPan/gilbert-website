@@ -30,9 +30,9 @@ interests:
 
 education:
   courses:
-  - course: MS in CS
+  - course: M.S. in CS
     institution: Columbia University 
-  - course: BS in CS, Mathematics
+  - course: B.S. in CS, Mathematics
     institution: Rutgers University
     # year: 2018
   # - course: Exchange Student
@@ -98,4 +98,4 @@ Hi there! I (Gilbert) am a CS master student at Columbia University@SEAS. I had 
 
 With respect to my personality, I'm always passionate about learning new tech stacks; and I have my open source spirit, I'm member of the Coala Development Group on Github. Besides, I'm super down-to-earth and a great team player.
 
-I am currently actively seeking for 2022 SDE Summer Internship job opportunities, please contact my email (the icon under my avatar) if you think any my experience interesting and fits. Thank you!
+I am currently actively seeking for **2022 SDE Summer Internship** job opportunities, please contact my email (the icon under my avatar) if you think any my experience interesting and fits. Thank you!

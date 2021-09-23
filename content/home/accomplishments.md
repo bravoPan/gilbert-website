@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Honors Graduation"
   url = ""
   certificate_url = ""
-  date_start = "2018-09-01"
-  date_end = "2021-06-01"
+  date_start = "2021-06-01"
+  date_end = ""
   description = "Graduated with Magna Cum Laude"
 
 [[item]]
