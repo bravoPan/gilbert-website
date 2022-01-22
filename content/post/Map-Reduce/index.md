@@ -27,7 +27,7 @@ featured: false
 
 
 image:
-  caption: 'Image credit: [**Citrix Repo Demo**](https://www.youtube.com/watch?v=slrZdMhYvOg)'
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
@@ -36,12 +36,12 @@ authors:
 - admin
 
 tags:
-- Debian Package
-- Raspbian
+- Distributed System
+- Golang
 
 categories:
-- Cloud Application Development
-- Raspbian Packages
+- Distributed System
+- Golang
 ---
 
 ### Map-Reduce: Split, Map, Reduce, Merge
