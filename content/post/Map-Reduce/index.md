@@ -9,10 +9,10 @@ summary: A Simplex Map-Reduce in Golang to implement the word frequency collecti
 projects: []
 
 # Date published
-date: "2021-01-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 
 # Date updated
-lastmod: "2021-01-02T00:00:00Z"
+lastmod: "2022-01-02T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
