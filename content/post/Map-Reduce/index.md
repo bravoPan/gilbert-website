@@ -3,16 +3,16 @@ title: Map-Reduce in Golang
 subtitle: A Golang implemented Map-Reduce
 
 # Summary for listings and search engines
-summary: The proposal is to maintain a customized repo by Citrix which contains all Raspbian binary packages and has the capabilities to sync with Raspbian regularly and store our own Debian binary packages. The meaning of our project is to make it easier for WSH(Worksapce Hub) users to install the packages only by receiving several commandas. And we would optimize this project by adding a Cache Server.
+summary: A Simplex Map-Reduce in Golang to implement the word frequency collection in the distributed model
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2019-07-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 
 # Date updated
-lastmod: "2019-08-31T00:00:00Z"
+lastmod: "2021-01-02T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
