@@ -43,6 +43,9 @@ categories:
 - Network
 ---
 
+
+Please review the full project report [here](https://bravopan.github.io/4119_project2.pdf)
+
 ### Project Framework
 
 
