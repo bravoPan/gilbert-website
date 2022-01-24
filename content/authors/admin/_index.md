@@ -31,7 +31,7 @@ interests:
 education:
   courses:
   - course: M.S. in CS
-    institution: Columbia University 
+    institution: Columbia University
   - course: B.S. in CS, Mathematics
     institution: Rutgers University
     # year: 2018
@@ -91,10 +91,10 @@ Recently I am wishing for a machine learning research opportunity, it is expecte
 
 My research experiences are concentrated on developing software application, using data science to solve real problem, also natural language processing in Chinese context, developing Human Computer Interaction web application for VR/AR devices, model designing and model checking for distributed system.
 
-
+, for example, the one I did is using the Dynamic Time Warping Algorithm to implement a swipe keyboard on an iPhone browser.
 I am expected to graduate in May 2021, currently preparing for applying graduate education. -->
 
-Hi there! I (Gilbert) am a CS master student at Columbia University@SEAS. I had my internship at Citrix System Inc as a software development engineer, I developed a repository server for company internal usage and improved the security. I also had several on-campus research experience on the aspect  of developing algorithm-based applications for testing the novel human-computer interaction, for example, the one I did is using the Dynamic Time Warping Algorithm to implement a swipe keyboard on an iPhone browser. 
+Hi there! I (Gilbert) am a CS master student at Columbia University@SEAS. I had my internship at Citrix System Inc as a software development engineer, I developed a repository server for company internal usage and improved the security. I also had several on-campus research experience on the aspect  of developing algorithm-based applications for testing the novel human-computer interaction. But my favoriate field is still the sfotware development. Top 3 favoriate languages in my ares is: Python, Golang, C++.
 
 With respect to my personality, I'm always passionate about learning new tech stacks; and I have my open source spirit, I'm member of the Coala Development Group on Github. Besides, I'm super down-to-earth and a great team player.
 
