@@ -14,7 +14,7 @@ role: Columbia@MSCS
 
 # Organizations/Affiliations
 organizations:
-- name: SDE@Google
+- name: Google@SDE
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
