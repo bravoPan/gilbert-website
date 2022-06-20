@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student
+role: Columbia@MSCS
 
 # Organizations/Affiliations
 organizations:
-- name: Columbia University
+- name: SDE@Google
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -94,8 +94,10 @@ My research experiences are concentrated on developing software application, usi
 , for example, the one I did is using the Dynamic Time Warping Algorithm to implement a swipe keyboard on an iPhone browser.
 I am expected to graduate in May 2021, currently preparing for applying graduate education. -->
 
-Hi there! I (Gilbert) am a CS master student at Columbia University@SEAS. I had my internship at Citrix System Inc as a software development engineer, I developed a repository server for company internal usage and improved the security. I also had several on-campus research experience on the aspect  of developing algorithm-based applications for testing the novel human-computer interaction. But my favoriate field is still the sfotware development. Top 3 favoriate languages in my ares is: Python, Golang, C++.
+<!-- Hi there! I (Gilbert) am a CS master student at Columbia University@SEAS. I had my internship at Citrix System Inc as a software development engineer, I developed a repository server for company internal usage and improved the security. I also had several on-campus research experience on the aspect  of developing algorithm-based applications for testing the novel human-computer interaction. But my favoriate field is still the sfotware development. Top 3 favoriate languages in my ares is: Python, Golang, C++. -->
 
-With respect to my personality, I'm always passionate about learning new tech stacks; and I have my open source spirit, I'm member of the Coala Development Group on Github. Besides, I'm super down-to-earth and a great team player.
+Hi there! I (Gilbert) am a CS master's student at Columbia University@SEAS. I'm having my internship at Google LLC, Seurity&Privacy department as a software development engineer, working on large scale districuted ACL service. Before that, I had my SDE internship at Citrix System Inc, where I developed a repository server for company internal usage and improved the security. The top 3 favorite languages in my area are Python, Golang, and C++.
+
+Concerning my personality, I'm always passionate about learning new tech stacks; and I have an open-source spirit, I'm a member of the Coala Development Group on Github. Besides, I'm super down-to-earth and a great team player.
 
 <!-- I am currently actively seeking for **2022 SDE Summer Internship** job opportunities, please contact my email (the icon under my avatar) if you think any my experience interesting and fits. Thank you! -->
