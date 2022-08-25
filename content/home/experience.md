@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Software Development Intern"
+  company = "Google"
+  company_url = ""
+  location = ""
+  date_start = "2020-05-11"
+  date_end = "2020-08-16"
+  description = """
+  * Worked on the large scale distributed ACL system (2.5B QPS)
+  """
+
+[[experience]]
   title = "Smart City Research Intern"
   company = "Rutgers"
   company_url = ""
@@ -27,7 +38,7 @@ date_format = "Jan 2006"
   description = """
   * Supervised by Prof.[Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) and Ph.D. [Yu Yang](https://www.yyang.site/) at RU
   * Processed the Ground Truth Data for the Indoor Positioning Dataset
-  * Filter the position data based on Detecting Hubs Algorithm 
+  * Filter the position data based on Detecting Hubs Algorithm
   * Working on a ConvLSTM model to transfer learning vehicle flow in different cities
   """
 
